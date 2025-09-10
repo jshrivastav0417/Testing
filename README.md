@@ -1,3 +1,3 @@
 # Testing
 This is testing Repository.
-Author - Jatin 
+Author - Jatin (styashruti)
